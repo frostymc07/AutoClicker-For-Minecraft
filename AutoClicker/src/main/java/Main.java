@@ -1,3 +1,4 @@
+
 import org.jnativehook.GlobalScreen;
 import org.jnativehook.NativeHookException;
 import org.jnativehook.mouse.NativeMouseEvent;
@@ -388,3 +389,4 @@ public class Main implements NativeMouseInputListener {
         }, 0, 50);
     }
 }
+
